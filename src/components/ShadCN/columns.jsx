@@ -1,41 +1,22 @@
 "use client";
-import { ColumnDef } from "@tanstack/react-table";
 import { ArrowUpDown } from "lucide-react"
-
-// This type is used to define the shape of our data.
-// You can use a Zod schema here if you want.
 import { Button } from "../ui/button";
 
 import {
 	Dialog,
 	DialogContent,
-	DialogDescription,
-	DialogFooter,
 	DialogHeader,
 	DialogTitle,
 	DialogTrigger,
 } from "../ui/dialog";
-import { Input } from "../ui/input";
 import { Label } from "../ui/label";
 import { Progress } from "../ui/progress";
 import { Description } from "@radix-ui/react-dialog";
-// type Founder = {
-//     financial_projections: FinancialProjections;
-//     use_of_funds: UseOfFunds;
-//     milestones: string[];
-//     legal_information: string;
-//     risks_and_challenges: string;
-//     team: Founder[];
-//     previous_funding_rounds: FundingRound[];
-//     social_proof: string[];
-//     investor_benefits: string;
-//     communication_channels: string[];
-//   };
+
 
 export function DialogDemo(data) {
   
   const calcInvestmentGoal = (data) => {
-    console.log(data.investment_goal, data.previous_funding_rounds[0].amount_raised)
     const value = Math.round((data.previous_funding_rounds[0].amount_raised/data.investment_goal) * 100);
     return value;
   }
@@ -96,22 +77,6 @@ export function DialogDemo(data) {
             ))}
           </Label>
         </div>
-
-        {/* <Label>Previous Funding Rounds</Label>
-        <Description className="font-bold">
-          {data.previous_funding_rounds.map((round) => (
-            <div key={round.round}>
-              {round.round}: {round.amount_raised}
-            </div>
-          ))}
-        </Description>
-
-        <Label>Social Proof</Label>
-        <Description>{data.social_proof.join(", ")}</Description> */}
-
-        {/* <DialogFooter>
-          <Button type="submit">Contact Email</Button>
-        </DialogFooter> */}
       </DialogContent>
     </Dialog>
   );
@@ -120,7 +85,6 @@ export function DialogDemo(data) {
 export const columns= [
 	{
 		accessorKey: "id",
-		// header: "ID",
 		header: ({ column }) => {
 			return (
 				<Button
@@ -138,7 +102,6 @@ export const columns= [
 	},
 	{
 		accessorKey: "investment_goal",
-		// header: "Investment Goal",
 		header: ({ column }) => {
 			return (
 				<Button

@@ -1,8 +1,5 @@
-import { Button } from "../ui/button"
-
 import {
   Card,
-  CardContent,
   CardDescription,
   CardFooter,
   CardHeader,
@@ -11,7 +8,6 @@ import {
 import { DialogDemo } from "./columns"
 
 const CardComp = (props) => {
-  console.log(props)
 
   return (
     <>  

@@ -10,7 +10,8 @@ First, run the development server:
 ```bash
 cd  palm-outsourcing-technical-interview 
 npm install
-npm run dev
+npm run build
+npm run start
 ```
 ## What was used in the project
 
@@ -27,3 +28,9 @@ npm run dev
 
 ## Mobile View
 ![Mobile View](./Mobile.PNG)
+
+## Desktop Performance
+![Desktop Performance](./DesktopPerf.PNG)
+
+## Mobile Performance
+![Mobile Performance](./MobilePerf.PNG)
