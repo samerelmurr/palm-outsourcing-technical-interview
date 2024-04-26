@@ -1,0 +1,662 @@
+[
+    {
+      "id": 1,  
+      "startup_name": "TechWiz",
+        "description": "TechWiz is revolutionizing the AI industry with its cutting-edge algorithms for natural language processing.",
+        "founders": [
+          {
+            "name": "John Doe",
+            "background": "Ph.D. in Computer Science from Stanford University"
+          },
+          {
+            "name": "Jane Smith",
+            "background": "MBA with expertise in business development"
+          }
+        ],
+        "investment_goal": 1000000,
+        "minimum_investment": 5000,
+        "equity_offered": 10,
+        "valuation": 5000000,
+        "financial_projections": {
+          "revenue": 500000,  
+          "growth_rate": 30
+        },
+        "use_of_funds": {
+          "product_development": 400000,
+          "marketing": 300000,
+          "operational_costs": 300000
+        },
+        "milestones": [
+          "Launch beta version of AI platform",
+          "Acquire first 100 customers",
+          "Expand to new markets"
+        ],
+        "legal_information": "Offering Memorandum available upon request",
+        "risks_and_challenges": "Highly competitive AI market; regulatory risks",
+        "sector": "Artificial Intelligence",
+        "location": "San Francisco, CA",
+        "team": [
+          {
+            "name": "Alice Johnson",
+            "role": "CTO",
+            "background": "Ph.D. in Machine Learning"
+          },
+          {
+            "name": "Michael Brown",
+            "role": "CFO",
+            "background": "10+ years experience in finance"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Seed Round",
+            "investors": ["Venture Capital X", "Angel Investor Y"],
+            "amount_raised": 500000
+          }
+        ],
+        "social_proof": [
+          "Partnership with leading tech incubator",
+          "Featured in TechCrunch"
+        ],
+        "timeline": {
+          "start_date": "2024-05-01",
+          "end_date": "2024-06-30"
+        },
+        "investor_benefits": "Early access to new AI features; exclusive investor updates",
+        "communication_channels": ["Email support", "Live Q&A sessions"]
+      },
+      {
+        "id": 2,
+        "startup_name": "EcoTech",
+        "description": "EcoTech is a sustainable energy startup focused on developing innovative solar panel technology.",
+        "founders": [
+          {
+            "name": "Sarah Lee",
+            "background": "Ph.D. in Materials Science"
+          },
+          {
+            "name": "David Chen",
+            "background": "MBA with experience in renewable energy"
+          }
+        ],
+        "investment_goal": 500000,
+        "minimum_investment": 10000,
+        "equity_offered": 5,
+        "valuation": 10000000,
+        "financial_projections": {
+          "revenue": 200000,
+          "growth_rate": 20
+        },
+        "use_of_funds": {
+          "research_and_development": 300000,
+          "manufacturing": 100000,
+          "marketing": 100000
+        },
+        "milestones": [
+          "Prototype solar panel design",
+          "Pilot production run",
+          "Secure partnerships with distributors"
+        ],
+        "legal_information": "Private Placement Memorandum available upon request",
+        "risks_and_challenges": "Technological risks; market adoption challenges",
+        "sector": "Renewable Energy",
+        "location": "Los Angeles, CA",
+        "team": [
+          {
+            "name": "Emily Wang",
+            "role": "CTO",
+            "background": "Ph.D. in Electrical Engineering"
+          },
+          {
+            "name": "Alex Kim",
+            "role": "COO",
+            "background": "MBA with operations experience"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Seed Round",
+            "investors": ["Impact Fund A", "Angel Investor B"],
+            "amount_raised": 250000
+          }
+        ],
+        "social_proof": [
+          "Featured in CleanTech Magazine",
+          "Partnership with local utility company"
+        ],
+        "timeline": {
+          "start_date": "2024-07-01",
+          "end_date": "2024-08-31"
+        },
+        "investor_benefits": "Discounted pricing on solar panels; early access to new product releases",
+        "communication_channels": ["Monthly investor updates", "Webinars"]
+      },
+      {
+        "id": 3,
+        "startup_name": "GreenGrow",
+        "description": "GreenGrow is dedicated to sustainable agriculture practices, leveraging IoT and data analytics for optimized crop yields.",
+        "founders": [
+          {
+            "name": "Emily White",
+            "background": "Ph.D. in Agricultural Engineering"
+          },
+          {
+            "name": "David Lee",
+            "background": "Experienced farmer and environmentalist"
+          }
+        ],
+        "investment_goal": 500000,
+        "minimum_investment": 10000,
+        "equity_offered": 15,
+        "valuation": 3000000,
+        "financial_projections": {
+          "revenue": 200000,
+          "growth_rate": 20
+        },
+        "use_of_funds": {
+          "IoT technology development": 200000,
+          "Expansion to new markets": 150000,
+          "Research & Development": 150000
+        },
+        "milestones": [
+          "Deploy IoT sensors on 100 farms",
+          "Achieve 20% increase in crop yields",
+          "Launch direct-to-consumer sales platform"
+        ],
+        "legal_information": "Offering Memorandum available upon request",
+        "risks_and_challenges": "Dependent on weather conditions; regulatory challenges",
+        "sector": "Sustainable Agriculture",
+        "location": "Portland, OR",
+        "team": [
+          {
+            "name": "Sarah Green",
+            "role": "Head of Operations",
+            "background": "MBA with experience in supply chain management"
+          },
+          {
+            "name": "James Carter",
+            "role": "Lead Agronomist",
+            "background": "Ph.D. in Plant Science"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Seed Round",
+            "investors": ["Sustainable Ventures", "Angel Investor X"],
+            "amount_raised": 300000
+          }
+        ],
+        "social_proof": [
+          "Featured in Sustainable Agriculture Journal",
+          "Partnership with local environmental NGO"
+        ],
+        "timeline": {
+          "start_date": "2024-06-01",
+          "end_date": "2024-07-31"
+        },
+        "investor_benefits": "Exclusive farm tours; quarterly progress reports",
+        "communication_channels": ["Online chat support", "Monthly webinars"]
+      },
+      {
+        "id": 4,
+        "startup_name": "HealthTech Innovations",
+        "description": "HealthTech Innovations develops cutting-edge medical devices and software solutions to improve patient outcomes.",
+        "founders": [
+          {
+            "name": "Dr. Lisa Johnson",
+            "background": "MD with specialization in cardiology"
+          },
+          {
+            "name": "Mark Roberts",
+            "background": "Software engineer with experience in healthcare IT"
+          }
+        ],
+        "investment_goal": 800000,
+        "minimum_investment": 10000,
+        "equity_offered": 12,
+        "valuation": 6000000,
+        "financial_projections": {
+          "revenue": 700000,
+          "growth_rate": 25
+        },
+        "use_of_funds": {
+          "R&D for new medical devices": 400000,
+          "Clinical trials": 200000,
+          "Sales and marketing": 200000
+        },
+        "milestones": [
+          "FDA approval for flagship product",
+          "Commercial launch in US market",
+          "Expansion to international markets"
+        ],
+        "legal_information": "Offering Memorandum available upon request",
+        "risks_and_challenges": "Stringent regulatory requirements; competition from established players",
+        "sector": "Healthcare Technology",
+        "location": "Boston, MA",
+        "team": [
+          {
+            "name": "Dr. Michael Lee",
+            "role": "Chief Medical Officer",
+            "background": "MD with specialization in oncology"
+          },
+          {
+            "name": "Sarah Adams",
+            "role": "VP of Sales",
+            "background": "10+ years experience in medical device sales"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Angel Round",
+            "investors": ["HealthTech Ventures", "Angel Investor Z"],
+            "amount_raised": 500000
+          }
+        ],
+        "social_proof": [
+          "Featured in Medical Device News",
+          "Partnership with leading hospital network"
+        ],
+        "timeline": {
+          "start_date": "2024-07-01",
+          "end_date": "2024-08-31"
+        },
+        "investor_benefits": "Early access to beta testing; VIP access to product launch events",
+        "communication_channels": ["Dedicated investor hotline", "Quarterly investor updates"]
+      },
+      {
+        "id": 5,
+        "startup_name": "EcoClean",
+        "description": "EcoClean is revolutionizing the laundry industry with its eco-friendly detergent pods and sustainable packaging.",
+        "founders": [
+          {
+            "name": "Alex Green",
+            "background": "Environmental science degree with focus on sustainability"
+          },
+          {
+            "name": "Sophia Chen",
+            "background": "Marketing expert with experience in consumer goods"
+          }
+        ],
+        "investment_goal": 400000,
+        "minimum_investment": 5000,
+        "equity_offered": 20,
+        "valuation": 2000000,
+        "financial_projections": {
+          "revenue": 300000,
+          "growth_rate": 15
+        },
+        "use_of_funds": {
+          "Product development": 150000,
+          "Marketing and branding": 100000,
+          "Expansion to new markets": 150000
+        },
+        "milestones": [
+          "Launch e-commerce platform",
+          "Secure partnership with major retailer",
+          "Achieve 10% market share in eco-friendly laundry segment"
+        ],
+        "legal_information": "Offering Memorandum available upon request",
+        "risks_and_challenges": "Competition from established detergent brands; supply chain disruptions",
+        "sector": "Consumer Goods",
+        "location": "Seattle, WA",
+        "team": [
+          {
+            "name": "David Johnson",
+            "role": "Head of Product",
+            "background": "Chemical engineer with expertise in sustainable materials"
+          },
+          {
+            "name": "Emily Wong",
+            "role": "VP of Marketing",
+            "background": "Digital marketing specialist"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Seed Round",
+            "investors": ["Sustainable Ventures", "Angel Investor Y"],
+            "amount_raised": 300000
+          }
+        ],
+        "social_proof": [
+          "Featured in Eco-Friendly Living Magazine",
+          "Certified by Environmental Protection Agency"
+        ],
+        "timeline": {
+          "start_date": "2024-08-01",
+          "end_date": "2024-09-30"
+        },
+        "investor_benefits": "Discounts on EcoClean products; exclusive access to new product launches",
+        "communication_channels": ["Live chat support", "Monthly investor webinars"]
+      },
+      {
+        "id": 6,
+        "startup_name": "TravelWise",
+        "description": "TravelWise offers personalized travel planning services, leveraging AI algorithms and expert travel advisors.",
+        "founders": [
+          {
+            "name": "Peter Johnson",
+            "background": "Entrepreneur with experience in travel industry"
+          },
+          {
+            "name": "Rachel Lee",
+            "background": "Travel enthusiast with marketing background"
+          }
+        ],
+        "investment_goal": 600000,
+        "minimum_investment": 10000,
+        "equity_offered": 18,
+        "valuation": 4000000,
+        "financial_projections": {
+          "revenue": 500000,
+          "growth_rate": 20
+        },
+        "use_of_funds": {
+          "Technology development": 300000,
+          "Marketing and sales": 200000,
+          "Expansion to new markets": 100000
+        },
+        "milestones": [
+          "Launch AI-powered travel planning platform",
+          "Secure partnerships with major airlines and hotel chains",
+          "Expand to European market"
+        ],
+        "legal_information": "Offering Memorandum available upon request",
+        "risks_and_challenges": "Competitive landscape; reliance on third-party travel providers",
+        "sector": "Travel and Hospitality",
+        "location": "New York City, NY",
+        "team": [
+          {
+            "name": "Alex Brown",
+            "role": "CTO",
+            "background": "Software engineer with expertise in AI"
+          },
+          {
+            "name": "Jessica Carter",
+            "role": "Head of Marketing",
+            "background": "Digital marketing specialist"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Seed Round",
+            "investors": ["TravelTech Angels", "Venture Capital Z"],
+            "amount_raised": 400000
+          }
+        ],
+        "social_proof": [
+          "Featured in Travel Weekly",
+          "Rated 5 stars on travel review platforms"
+        ],
+        "timeline": {
+          "start_date": "2024-09-01",
+          "end_date": "2024-10-31"
+        },
+        "investor_benefits": "Early access to travel deals; personalized travel itineraries",
+        "communication_channels": ["Dedicated investor email support", "Bi-weekly investor updates"]
+      },
+      {
+        "id": 7,
+        "startup_name": "EduTech Solutions",
+        "description": "EduTech Solutions provides online learning platforms and educational content for K-12 students.",
+        "founders": [
+          {
+            "name": "Dr. Michael Adams",
+            "background": "Ph.D. in Education with focus on online learning"
+          },
+          {
+            "name": "Sarah Johnson",
+            "background": "Technology entrepreneur with passion for education"
+          }
+        ],
+        "investment_goal": 750000,
+        "minimum_investment": 5000,
+        "equity_offered": 15,
+        "valuation": 5000000,
+        "financial_projections": {
+          "revenue": 600000,
+          "growth_rate": 25
+        },
+        "use_of_funds": {
+          "Platform development": 400000,
+          "Content creation": 200000,
+          "Marketing and outreach": 150000
+        },
+        "milestones": [
+          "Launch online learning platform",
+          "Secure partnerships with school districts",
+          "Expand to international markets"
+        ],
+        "legal_information": "Offering Memorandum available upon request",
+        "risks_and_challenges": "Regulatory hurdles; competition from established educational institutions",
+        "sector": "Education Technology",
+        "location": "Los Angeles, CA",
+        "team": [
+          {
+            "name": "Emily Green",
+            "role": "Chief Product Officer",
+            "background": "Software engineer with experience in edtech"
+          },
+          {
+            "name": "David Smith",
+            "role": "VP of Marketing",
+            "background": "Marketing strategist with focus on education sector"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Angel Round",
+            "investors": ["EdTech Angels", "Angel Investor Y"],
+            "amount_raised": 500000
+          }
+        ],
+        "social_proof": [
+          "Featured in EdSurge",
+          "Partnership with leading education nonprofits"
+        ],
+        "timeline": {
+          "start_date": "2024-10-01",
+          "end_date": "2024-11-30"
+        },
+        "investor_benefits": "Early access to new educational content; quarterly progress reports",
+        "communication_channels": ["Dedicated investor forum", "Monthly investor webinars"]
+      } ,
+      {
+        "id": 8,
+        "startup_name": "CleanTech Innovations",
+        "description": "CleanTech Innovations develops advanced renewable energy solutions to combat climate change.",
+        "founders": [
+          {
+            "name": "Dr. Emma Brown",
+            "background": "Ph.D. in Environmental Engineering"
+          },
+          {
+            "name": "Andrew Wilson",
+            "background": "Entrepreneur with focus on sustainability"
+          }
+        ],
+        "investment_goal": 900000,
+        "minimum_investment": 10000,
+        "equity_offered": 15,
+        "valuation": 6000000,
+        "financial_projections": {
+          "revenue": 800000,
+          "growth_rate": 35
+        },
+        "use_of_funds": {
+          "R&D for new renewable energy technologies": 500000,
+          "Scaling production facilities": 200000,
+          "Marketing and sales": 200000
+        },
+        "milestones": [
+          "Achieve grid parity with solar energy",
+          "Secure government contracts",
+          "Expand to international markets"
+        ],
+        "legal_information": "Offering Memorandum available upon request",
+        "risks_and_challenges": "Dependent on government subsidies; technological risks",
+        "sector": "Clean Energy",
+        "location": "San Francisco, CA",
+        "team": [
+          {
+            "name": "Dr. James Carter",
+            "role": "Chief Scientist",
+            "background": "Ph.D. in Physics with focus on renewable energy"
+          },
+          {
+            "name": "Sophia Adams",
+            "role": "VP of Operations",
+            "background": "Operations manager with experience in manufacturing"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Seed Round",
+            "investors": ["CleanTech Ventures", "Angel Investor Z"],
+            "amount_raised": 600000
+          }
+        ],
+        "social_proof": [
+          "Featured in CleanTech Magazine",
+          "Winner of Clean Energy Innovation Award"
+        ],
+        "timeline": {
+          "start_date": "2024-11-01",
+          "end_date": "2024-12-31"
+        },
+        "investor_benefits": "Discounts on renewable energy products; invitations to clean energy symposiums",
+        "communication_channels": ["Dedicated investor hotline", "Quarterly investor updates"]
+      },
+      {
+        "id": 9,
+        "startup_name": "FinTech Solutions",
+        "description": "FinTech Solutions provides innovative financial technology solutions for banking and finance industry.",
+        "founders": [
+          {
+            "name": "David Johnson",
+            "background": "Entrepreneur with expertise in finance and technology"
+          },
+          {
+            "name": "Sophia White",
+            "background": "Financial analyst with passion for technology"
+          }
+        ],
+        "investment_goal": 700000,
+        "minimum_investment": 10000,
+        "equity_offered": 20,
+        "valuation": 5000000,
+        "financial_projections": {
+          "revenue": 600000,
+          "growth_rate": 25
+        },
+        "use_of_funds": {
+          "Platform development": 400000,
+          "Marketing and sales": 200000,
+          "Expansion to new markets": 100000
+        },
+        "milestones": [
+          "Launch new banking app",
+          "Secure partnerships with major banks",
+          "Expand to Asian markets"
+        ],
+        "legal_information": "Offering Memorandum available upon request",
+        "risks_and_challenges": "Regulatory compliance; cybersecurity risks",
+        "sector": "Financial Technology",
+        "location": "New York City, NY",
+        "team": [
+          {
+            "name": "Michael Brown",
+            "role": "Chief Technology Officer",
+            "background": "Software engineer with expertise in finance"
+          },
+          {
+            "name": "Emma Green",
+            "role": "Chief Marketing Officer",
+            "background": "Marketing strategist with focus on fintech"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Seed Round",
+            "investors": ["FinTech Angels", "Venture Capital X"],
+            "amount_raised": 500000
+          }
+        ],
+        "social_proof": [
+          "Featured in FinTech Times",
+          "Partnership with leading payment processor"
+        ],
+        "timeline": {
+          "start_date": "2025-01-01",
+          "end_date": "2025-02-28"
+        },
+        "investor_benefits": "Early access to new financial products; exclusive investor webinars",
+        "communication_channels": ["Dedicated investor forum", "Monthly investor updates"]
+      },
+      {
+        "id": 10,
+        "startup_name": "FashionTech Innovations",
+        "description": "FashionTech Innovations offers AI-powered fashion recommendation systems for personalized shopping experiences.",
+        "founders": [
+          {
+            "name": "Sophia Lee",
+            "background": "Fashion designer with passion for technology"
+          },
+          {
+            "name": "David Smith",
+            "background": "Software engineer with expertise in AI"
+          }
+        ],
+        "investment_goal": 600000,
+        "minimum_investment": 10000,
+        "equity_offered": 18,
+        "valuation": 4000000,
+        "financial_projections": {
+          "revenue": 500000,
+          "growth_rate": 20
+        },
+        "use_of_funds": {
+          "Technology development": 300000,
+          "Marketing and sales": 200000,
+          "Expansion to new markets": 100000
+        },
+        "milestones": [
+          "Launch AI-powered fashion app",
+          "Secure partnerships with major retailers",
+          "Expand to European markets"
+        ],
+        "legal_information": "Offering Memorandum available upon request",
+        "risks_and_challenges": "Changing fashion trends; competition from established fashion brands",
+        "sector": "Fashion Technology",
+        "location": "Los Angeles, CA",
+        "team": [
+          {
+            "name": "Jessica Carter",
+            "role": "Chief Design Officer",
+            "background": "Fashion designer with experience in tech-driven fashion"
+          },
+          {
+            "name": "Michael Green",
+            "role": "Chief Technology Officer",
+            "background": "Software engineer with focus on fashion tech"
+          }
+        ],
+        "previous_funding_rounds": [
+          {
+            "round": "Seed Round",
+            "investors": ["FashionTech Angels", "Angel Investor Y"],
+            "amount_raised": 400000
+          }
+        ],
+        "social_proof": [
+          "Featured in Vogue",
+          "Partnership with leading fashion bloggers"
+        ],
+        "timeline": {
+          "start_date": "2025-02-01",
+          "end_date": "2025-03-31"
+        },
+        "investor_benefits": "Early access to fashion collections; VIP invitations to fashion shows",
+        "communication_channels": ["Dedicated investor hotline", "Bi-weekly investor updates"]
+      }                           
+]
