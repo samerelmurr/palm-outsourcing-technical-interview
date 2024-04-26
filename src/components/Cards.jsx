@@ -5,7 +5,7 @@ const Cards = (data) => {
     <>
         {
             data.data.map((company, index) => (
-                <CardComp key={index} CardCompcompany={company} index={index}/>
+                <CardComp key={index} CardCompany={company} index={index}/>
             ))
         }
     </>

@@ -30,13 +30,8 @@ const Tables = () => {
     }
   
     useEffect(() => {
-      getData();
-
-      window.addEventListener('resize', handleResize);
-
-      return () => {
-        window.removeEventListener('resize', handleResize);
-      }
+      getData();  
+      handleResize();
     }, []);
 
     return (

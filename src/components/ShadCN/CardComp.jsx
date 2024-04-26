@@ -17,15 +17,11 @@ const CardComp = (props) => {
     <>  
         <Card key={props.index} className="w-full">
             <CardHeader>
-                <CardTitle>{props.CardCompcompany.startup_name}</CardTitle>
-                <CardDescription>{props.CardCompcompany.description}</CardDescription>
+                <CardTitle>{props.CardCompany.startup_name}</CardTitle>
+                <CardDescription>{props.CardCompany.description}</CardDescription>
             </CardHeader>
-            <CardContent>
-                {/* <p>Employees: {props.CardCompcompany.employees}</p>
-                <p>Revenue: {props.CardCompcompany.revenue}</p> */}
-            </CardContent>
             <CardFooter>
-                <DialogDemo key={props.index}  {...props.CardCompcompany}/>
+                <DialogDemo key={props.index}  {...props.CardCompany}/>
             </CardFooter>
         </Card>
     </>
